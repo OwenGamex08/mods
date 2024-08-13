@@ -2,109 +2,109 @@
   "mods": [
     {
       "name": "artifacts-1.18.2-4.2.0.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/artifacts-1.18.2-4.2.0.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/artifacts-1.18.2-4.2.0.jar",
       "sha1": "b4baf2b7d0c26b01314452ab54fdf2d2ac156e7a",
       "size": 506701
     },
     {
       "name": "Beyond-Earth-1.18.2-6.2.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/Beyond-Earth-1.18.2-6.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/Beyond-Earth-1.18.2-6.2.jar",
       "sha1": "0e2d2b2acaf8df5aaa40003d00fdedb47b5efe78",
       "size": 4075963
     },
     {
       "name": "carryon-1.18.2-1.17.0.8.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/carryon-1.18.2-1.17.0.8.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/carryon-1.18.2-1.17.0.8.jar",
       "sha1": "379256bc458f5ca20b4c3d1d5a89fac3f913ef93",
       "size": 319406
     },
     {
       "name": "curios-forge-1.18.2-5.0.7.1.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/curios-forge-1.18.2-5.0.7.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/curios-forge-1.18.2-5.0.7.1.jar",
       "sha1": "5d8dca2d6c769eccbd21ce6a48ed50d93b5597f4",
       "size": 270867
     },
     {
       "name": "expandability-6.0.0.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/expandability-6.0.0.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/expandability-6.0.0.jar",
       "sha1": "9f6a758dea9f329a1101a83b37a2b4e7f5a191e2",
       "size": 42821
     },
     {
       "name": "goblintraders-1.8.0-1.18.2.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/goblintraders-1.8.0-1.18.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/goblintraders-1.8.0-1.18.2.jar",
       "sha1": "bbd8dbb5ea64ba3c945b4560e75acb9d62222d02",
       "size": 439283
     },
     {
       "name": "Incendium_v5.0.4.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/Incendium_v5.0.4.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/Incendium_v5.0.4.jar",
       "sha1": "aaf0496f64a9ed4040951c0e6f6b62cc4be2c392",
       "size": 5968063
     },
     {
       "name": "jei-1.18.2-forge-10.2.1.283.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/jei-1.18.2-forge-10.2.1.283.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/jei-1.18.2-forge-10.2.1.283.jar",
       "sha1": "1c476d00d4ae2bc8babf08cb200ee197eb199418",
       "size": 1081495
     },
     {
       "name": "OptiFine_1.18.2_HD_U_H9.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/OptiFine_1.18.2_HD_U_H9.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/OptiFine_1.18.2_HD_U_H9.jar",
       "sha1": "2a461188167c1da6b1cfd520d85a656f45c74d70",
       "size": 6725140
     },
     {
       "name": "sons-of-sins-1.18.2-1.1.1.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/sons-of-sins-1.18.2-1.1.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/sons-of-sins-1.18.2-1.1.1.jar",
       "sha1": "0bd7f65fc586b09657813983df33554a8a2c951e",
       "size": 1267628
     },
     {
       "name": "sophisticatedbackpacks-1.18.2-3.18.35.752.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/sophisticatedbackpacks-1.18.2-3.18.35.752.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/sophisticatedbackpacks-1.18.2-3.18.35.752.jar",
       "sha1": "7cf71355aabb799703efff60604ce754de89160b",
       "size": 737744
     },
     {
       "name": "sophisticatedcore-1.18.2-0.5.32.179.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/sophisticatedcore-1.18.2-0.5.32.179.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/sophisticatedcore-1.18.2-0.5.32.179.jar",
       "sha1": "9537a29281fae473bd5d65f0e79a2f54dc892f98",
       "size": 954089
     },
     {
       "name": "The_Undergarden-1.18.2-0.7.1.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/The_Undergarden-1.18.2-0.7.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/The_Undergarden-1.18.2-0.7.1.jar",
       "sha1": "b52a02df012cd0df3378f7e4580e340809e40daf",
       "size": 61128854
     },
     {
       "name": "twilightforest-1.18.2-4.1.1423-universal.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/twilightforest-1.18.2-4.1.1423-universal.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/twilightforest-1.18.2-4.1.1423-universal.jar",
       "sha1": "64aaab962586019a8e41cee8fa9e373774563b82",
       "size": 32922066
     },
     {
       "name": "voicechat-forge-1.18.2-2.3.23.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/voicechat-forge-1.18.2-2.3.23.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/voicechat-forge-1.18.2-2.3.23.jar",
       "sha1": "3f4b6b7ad8961b78ac27d1b5f6e69afe0ed1ef33",
       "size": 7844761
     },
     {
       "name": "witherstormmod-1.18.2-2.1.1.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/witherstormmod-1.18.2-2.1.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/witherstormmod-1.18.2-2.1.1.jar",
       "sha1": "196f91a98ad015ab0bd230bc2ae615ca622bf5af",
       "size": 22122550
     },
     {
       "name": "XaerosWorldMap_1.38.8_Forge_1.18.2.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/XaerosWorldMap_1.38.8_Forge_1.18.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/XaerosWorldMap_1.38.8_Forge_1.18.2.jar",
       "sha1": "fb414f4566d17135e8aa3ed3a3ed4f1721d5ef70",
       "size": 924975
     },
     {
       "name": "Xaeros_Minimap_24.2.0_Forge_1.18.2.jar",
-      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/tree/main/mods/Xaeros_Minimap_24.2.0_Forge_1.18.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/OwenGamex08/mods/main/mods/Xaeros_Minimap_24.2.0_Forge_1.18.2.jar",
       "sha1": "9759c06c32deaa98131972ece17046fd8bd34ce1",
       "size": 1466901
     }
